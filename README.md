@@ -8,8 +8,8 @@ Return the machine lerning classification as being 0 (negative review) or 1 (pos
 ## POST
 Requires a JSON content, like below
 
-{
-  "new_review": "That was really fantastic!!!"
+{<br/>
+  "new_review": "That was really fantastic!!!"<br/>
 }
 
 ## Example
@@ -26,7 +26,7 @@ node app.js
 ## R Packages
 All the necessary R packages used to build the model:
 
-install.packages('tm')
-install.packages('SnowballC')
-install.packages('caTools')
+install.packages('tm')<br/>
+install.packages('SnowballC')<br/>
+install.packages('caTools')<br/>
 install.packages('randomForest')
