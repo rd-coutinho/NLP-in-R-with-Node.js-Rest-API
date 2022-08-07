@@ -15,7 +15,7 @@ Requires a JSON content, like below
 ## Example
 ![](Integration_Node_js_and_R.gif)
 
-In this example, we write a positive review and the algorithm correctly predict as 1 (positive review).
+In this example, we write a positive review as a JSON Content and make a POST request, getting a response from the prediction made by algorithm (correctly predicted as 1, being a positive review).
 
 ## Installation
 With Node.js already installed, execute the commands below to download the dependencies and run the app: 
