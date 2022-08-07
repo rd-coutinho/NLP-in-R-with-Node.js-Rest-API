@@ -9,7 +9,7 @@ Return the machine lerning classification as being 0 (negative review) or 1 (pos
 Requires a JSON content, like below
 
 {<br/>
-  "new_review": "That was really fantastic!!!"<br/>
+  "new_review": "I really love this restaurant!!!"<br/>
 }
 
 ## Example
