@@ -22,3 +22,11 @@ npm install express -save
 npm install r-script --save
 
 node app.js
+
+## R Packages
+All the necessary R packages used to build the model:
+
+install.packages('tm')
+install.packages('SnowballC')
+install.packages('caTools')
+install.packages('randomForest')
