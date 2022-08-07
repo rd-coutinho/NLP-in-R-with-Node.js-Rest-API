@@ -18,7 +18,7 @@ Requires a JSON content, like below
 ## Installation
 With Node.js already installed, execute the commands below to download the dependencies and run the app: 
 
-npm install express -save
+npm install express -save<br/>
 npm install r-script --save
 
 node app.js
