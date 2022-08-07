@@ -13,7 +13,7 @@ Requires a JSON content, like below
 }
 
 ## Example
-![](Integration_Node.js_and_R.gif)
+![](Integration_Node_js_and_R.gif)
 
 ## Installation
 With Node.js already installed, execute the commands below to download the dependencies and run the app: 
