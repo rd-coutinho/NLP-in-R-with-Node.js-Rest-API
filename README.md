@@ -18,10 +18,11 @@ Requires a JSON content, like below
 In this example, we write a positive review as a JSON Content and make a POST request, getting a response from the prediction made by algorithm (correctly predicted as 1, being a positive review).
 
 ## Installation
-With Node.js already installed, execute the commands below to download the dependencies and run the app: 
+With Node.js already installed, execute the commands below to download and install the dependencies and run the app: 
 
 npm install express -save<br/>
-npm install r-script --save
+npm install r-script --save<br/>
+Or npm install to install all dependencies used in this project.
 
 node app.js
 
